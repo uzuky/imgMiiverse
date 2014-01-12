@@ -16,3 +16,10 @@ Miiverseの投稿のスクリーンショットのURLを表示したりするだ
 古いIEだとURL欄の文字数制限があったりする
 あと古いIEだとgetElementsByClassNameが動かないって聞いた
 あとIEだけ文字化けしたけど動作は問題ないから察して使って
+
+
+English
+===========
+Copy screenshot URL easily on Miiverse(Don't have to search URL in page source).
+Almost all 3DS screenshots file type is MPO(3D-viewing file type : also can see JPG).
+Others are JPG.
