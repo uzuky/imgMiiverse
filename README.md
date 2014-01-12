@@ -4,7 +4,7 @@ imgMiiverse
 Miiverseの画像表示するやつ
 
 これをブックマークに登録すれば使えるって信じてる  
-I think you can use as bookmarklet.
+I think you can use as a bookmarklet.
 
     javascript:"https://raw.github.com/uzuky/imgMiiverse/master/imgMiiverse.js (arg)".replace(/(\S+)\s+(\S*)/,function(s,url,arg){s=document.createElement("script");s.charset="utf-8";s.src=url+"?s="+encodeURIComponent(arg);document.body.appendChild(s)});void(0);
 
@@ -22,5 +22,5 @@ Miiverseの投稿のスクリーンショットのURLを表示したりするだ
 English
 ===========
 Copy screenshot URL easily on Miiverse(Don't have to search URL in page source).  
-Almost all 3DS screenshots file type is MPO(3D-viewing file type : also can see JPG).  
+Almost all 3DS screenshots file type are MPO(3D-viewing file type : also can see JPG).  
 Others are JPG.
